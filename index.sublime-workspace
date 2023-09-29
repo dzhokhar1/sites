@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_scripts"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.800003052,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/djokh/Desktop/Новая папка/index.html",
+		"/C/Users/djokh/AppData/Roaming/Sublime Text 3/Packages/User/xxz.html",
+		"/C/Users/djokh/Downloads/Старый код.html",
+		"/C/Users/djokh/Desktop/table.html",
+		"/C/Users/djokh/Documents/public_html/wp-content/themes/hello-elementor/vdconnect-o22n2t66.php",
+		"/C/Users/djokh/Desktop/MyResume/index.html",
+		"/C/Users/djokh/Desktop/MyResume/assets/css/style.css",
+		"/C/Users/djokh/AppData/Local/Temp/7zEC358E463/style.css",
+		"/C/Users/djokh/Documents/public_html/wp-content/themes/hello-elementor/index.php",
+		"/C/Users/djokh/Documents/public_html/index.php",
+		"/C/Users/djokh/Desktop/wordpress/wp-config.php",
+		"/C/Users/djokh/Music/h.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp20910/public_html/css/style.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp18844/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa3920.25287/public_html/index.html",
+		"/C/Users/djokh/Music/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp13784/public_html/index.html",
+		"/C/Users/djokh/Downloads/Mediamodifier-Design (1).svg",
+		"/C/Users/djokh/Downloads/icons8-whatsapp.svg",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa23364.49815/public_html/css/style.css",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa19384.28701/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa19384.29690/public_html/css/style.css",
+		"/C/Users/djokh/Downloads/Список работников.xhtml",
+		"/C/Users/djokh/AppData/Local/Temp/scp12156/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp39944/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp51838/public_html/css/style.css",
+		"/C/Users/djokh/Downloads/logo4.svg",
+		"/C/Users/djokh/AppData/Local/Temp/scp40092/public_html/index.html",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/404.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp25560/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp42422/templates/ja_simpli/css/new.css",
+		"/C/Users/djokh/Downloads/calc.js",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa4132.18520/calc.js",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa14168.3115/functions.php",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa17200.21198/изошки/index.html",
+		"/C/Users/djokh/Downloads/form (2).js",
+		"/C/Users/djokh/Downloads/form (1).js",
+		"/C/Users/djokh/Downloads/form.js",
+		"/C/Users/djokh/Desktop/forma_2/forma.css",
+		"/C/Users/djokh/Desktop/forma_2/sendform.php",
+		"/C/Users/djokh/Desktop/forma_2/form.js",
+		"/C/Users/djokh/Desktop/forma_2/uslovie.html",
+		"/C/Users/djokh/Desktop/письмо.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp19501/templates/ja_simpli/css/main.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp46033/templates/shaper_helixultimate/index.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp39045/templates/ja_simpli/index.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp17437/templates/shaper_helixultimate/css/template.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp45520/templates/shaper_helixultimate/css/new1.css",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa10752.20790/units.bz/css/sg_styles.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp26280/templates/ja_simpli/css/main.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp36991/templates/shaper_helixultimate/css/template.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp15867/templates/shaper_helixultimate/index.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp13387/templates/ja_simpli/index.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp26973/templates/shaper_helixultimate/css/template.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp25042/templates/ja_simpli/css/main.css",
+		"/C/Users/djokh/Downloads/access_log",
+		"/C/Users/djokh/AppData/Local/Temp/scp04430/templates/shaper_helixultimate/css/template.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp01233/templates/ja_simpli/css/main.css",
+		"/C/Users/djokh/Desktop/units.bz/css/sg_styles.css",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa14224.4595/units.bz/index.html",
+		"/C/Users/djokh/Desktop/units.bz/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/Rar$DRa19184.41681/units.bz/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp36726/configuration.php",
+		"/C/Users/djokh/Desktop/sparrow/345345345.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp10372/libraries/cms/html/behavior.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp47667/libraries/joomla/session/storage.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp43598/libraries/joomla/session/handler/native.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp39439/administrator/cache/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp18019/administrator/index.php",
+		"/C/Users/djokh/Desktop/units.bz/css/template_99c68d08cceb2c4dcffe2a09dbb3a12f_v1.css@165088530691792.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp43657/administrator/components/com_akeeba/backup/site-hr-technologies.ru-20220606-230729utc-rFlFzwrYp6kzPwRc.zip",
+		"/C/Users/djokh/Desktop/sparrow/index.php",
+		"/C/Users/djokh/Desktop/sparrow/caseru.php",
+		"/C/Users/djokh/Desktop/sparrow/еучеффы.html",
+		"/C/Users/djokh/Desktop/source/css/style.css",
+		"/C/Users/djokh/Desktop/source/sass/blocks/header.scss",
+		"/C/Users/djokh/Desktop/source/sass/blocks/main.scss",
+		"/C/Users/djokh/Desktop/build/css/style.min.css",
+		"/C/Users/djokh/Desktop/source/index.html",
+		"/C/Users/djokh/Desktop/build/index.html",
+		"/C/Users/djokh/Desktop/build (9)/css/style.min.css",
+		"/C/Users/djokh/Desktop/spisok.html",
+		"/C/Users/djokh/Desktop/build (9)/index.html",
+		"/C/Users/djokh/Downloads/service-2 (1).html",
+		"/C/Users/djokh/Downloads/b9aab58dd90702cf/index.html",
+		"/C/Users/djokh/Downloads/b9aab58dd90702cf/window.css",
+		"/C/Users/djokh/Downloads/service-2 (3).html",
+		"/C/Users/djokh/Downloads/service-2.html",
+		"/C/Users/djokh/Downloads/topbar.html",
+		"/C/Users/djokh/Downloads/service-2 (2).html",
+		"/C/Users/djokh/Downloads/header-options.scss",
+		"/C/Users/djokh/Downloads/style.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp53787/home/c/cx48419/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp02518/home/c/cx48419/public_html/index.php",
+		"/C/Users/djokh/AppData/Local/Temp/scp58490/home/c/cx48419/public_html/css/style.min.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp50769/home/c/cx48419/public_html/css/style.min.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp50794/home/c/cx48419/public_html/css/style.min.css.map",
+		"/C/Users/djokh/AppData/Local/Temp/scp38283/home/c/cx48419/public_html/index.html",
+		"/C/Users/djokh/AppData/Local/Temp/scp10002/home/c/cx48419/public_html/index.html",
+		"/C/Users/djokh/Downloads/cat-klock-430x430.svg",
+		"/C/OpenServer/domains/wpnew.ru/wp-content/themes/woodmart/inc/dummy-content/base-light/content.xml",
+		"/C/Users/djokh/Desktop/sparrow/blog.html",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/sidebar.php",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/page.php",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/footer.php",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/index.php",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/header.php",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/functions.php",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/assets/css/layout.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp27091/public_html/wp-content/themes/woodmart/css/parts/header-base.min.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp17464/public_html/wp-content/themes/woodmart/style.min.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp46716/public_html/wp-content/themes/woodmart/css/parts/int-wpbakery-base.min.css",
+		"/C/Users/djokh/AppData/Local/Temp/scp40608/public_html/wp-content/themes/woodmart/style.css",
+		"/C/Users/djokh/Desktop/Султанбеков/Султанбеков/site2.html",
+		"/C/Users/djokh/Desktop/Султанбеков/Султанбеков/site2.css",
+		"/C/Users/djokh/Documents/Paradox Interactive/Europa Universalis IV/save games/autosave.eu4",
+		"/C/Users/djokh/Desktop/Стилер Телеграм.py",
+		"/C/Users/djokh/Documents/Paradox Interactive/Europa Universalis IV/save games/Oca29_07_1805.eu4",
+		"/C/Users/djokh/Downloads/sollet.bak",
+		"/C/OpenServer/domains/wordpress.loc/wp-content/themes/sparrow/assets/css/media-queries.css",
+		"/C/Users/djokh/Documents/Paradox Interactive/Europa Universalis IV/dlc_signature",
+		"/C/Users/djokh/Desktop/Новая папка (2)/steam_api.dll"
+	],
+	"find":
+	{
+		"height": 50.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.4
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 97.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
